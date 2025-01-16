@@ -1,7 +1,8 @@
-export default function App (){
+export default function home (){ //Home Component 
     return (
         <div className= "home">
-            <h1>home</h1>
+            <h1>Home</h1>
+            <p>Welcome to the Home Page !</p>
         </div>
     );
 }
