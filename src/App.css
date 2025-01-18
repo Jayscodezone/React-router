@@ -40,3 +40,57 @@
 .read-the-docs {
   color: #888;
 }
+
+ul {
+  list-style:none;
+  padding:0;
+  text-align:center;
+}
+ol { 
+  display:inline;
+  margin:0 15px;
+}
+
+.Blue{
+  background-color: blue;
+  color: white;
+
+}
+#main-section{
+  margin:100px;
+  padding:0px;
+}
+.About{
+  background-color: blanchedalmond;
+  color:rgb(220, 20, 213);
+}
+
+.contact{
+  background-color: lightgrey;
+  text-align: center;
+  color:rgb(220, 20, 213)
+  
+}
+.Purple{
+  background-color: purple;
+  color:white;
+}
+
+/* Footer styling */
+.footer {
+  margin-top: auto; /* Push footer to the bottom of the page */
+  background-color: #333; /* Example background color */
+  color: white; /* Example text color */
+  padding: 10px;
+  text-align: center;
+}
+
+.footer a {
+  color: white; /* Style links in footer */
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline; /* Hover effect for links */
+}
